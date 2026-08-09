@@ -2,7 +2,7 @@
 <h3 align="center">Business Analyst | Data Storyteller | Process Optimizer</h3>
 
 <div align="center">
-  <a href="mailto:sharath.c23@iiits.in"><img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:sharathc9b2019.2020@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sharath-c-27834228a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 

@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="mailto:sharath.c23@iiits.in"><img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sharath-c-27834228a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <br>

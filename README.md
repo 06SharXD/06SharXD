@@ -1,183 +1,48 @@
-<!-- ===================================================== -->
-<!--               SHARATH C. / PROFILE README             -->
-<!-- ===================================================== -->
+<h1 align="center">Hi, I'm Sharath C.</h1>
+<h3 align="center">Business Analyst | Data Storyteller | Process Optimizer</h3>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=F6C177&center=true&vCenter=true&width=900&lines=SHARATH+C.+%E2%80%94+BUILDING+AT+THE+EDGE+OF+HARDWARE+%26+DATA;ECE+STUDENT+%7C+BUSINESS+ANALYTICS+%7C+DATA+SCIENCE;WELCOME+TO+THE+SYSTEM..." alt="Animated introduction" />
-
-<br/><br/>
-
-<a href="https://github.com/06SharXD">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-9CCFD8?style=for-the-badge&labelColor=191724" alt="Status online" />
-</a>
-<img src="https://img.shields.io/badge/LOCATION-IIIT%20Sri%20City-F6C177?style=for-the-badge&labelColor=191724" alt="IIIT Sri City" />
-<img src="https://img.shields.io/badge/FOCUS-ANALYTICS%20%2B%20ENGINEERING-EB6F92?style=for-the-badge&labelColor=191724" alt="Focus" />
-
+  <a href="mailto:sharath.c23@iiits.in"><img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
----
+<br>
 
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  USER PROFILE: SHARATH C.                                            │
-│  ROLE: Electronics & Communication Engineering Student               │
-│  MODE: Turning systems, data, and ideas into useful products         │
-└─────────────────────────────────────────────────────────────────────┘
-## `> whoami`
-
-I am an Electronics and Communication Engineering student at **IIIT Sri City**.
-
-I enjoy working where engineering, data, and product decisions meet — from FPGA-based systems and network simulation to dashboards, business analysis, and machine-learning projects.
-
-```text
-CURRENT MODE: LEARNING, BUILDING, ANALYSING
-```
+I am a Business Analyst specializing in bridging the gap between raw data and strategic execution. I leverage analytics, predictive modeling, and rigorous functional documentation (BRD/FRD) to identify bottlenecks, optimize user journeys, and drive cross-functional product development.
 
 ---
 
-## `> areas_of_interest`
+### 🛠️ Core Competencies & Tech Stack
 
-| Domain | What I Build |
-|:--|:--|
-| `Business Analysis` | Requirements, process maps, dashboards, and data-backed recommendations |
-| `Product Analytics` | A/B testing, conversion analysis, customer behaviour, and KPI reporting |
-| `Data Science` | Predictive models, data cleaning, exploratory analysis, and insights |
-| `Digital Systems` | Verilog, FPGA implementation, and hardware logic |
-| `Network Simulation` | Communication protocols, V2I systems, and digital twins |
+**Business Strategy & Product Development** <br>
+<img src="https://img.shields.io/badge/Requirement_Gathering_(BRD/FRD)-20232A?style=flat-square" />
+<img src="https://img.shields.io/badge/Agile_SDLC-20232A?style=flat-square" />
+<img src="https://img.shields.io/badge/A/B_Testing_&_CRO-20232A?style=flat-square" />
+<img src="https://img.shields.io/badge/Cross--Functional_Alignment-20232A?style=flat-square" />
 
----
+**Data & Analytics** <br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 
-## `> active_missions`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01 // PRODUCT ANALYTICS`
-
-**A/B Testing & CRO**
-
-A business-analysis project that evaluates conversion performance, tests statistical significance, and recommends whether a new checkout experience should launch.
-
-`Python` `SQL` `Tableau` `Power BI` `Statistics`
-
-</td>
-<td width="50%" valign="top">
-
-### `02 // NETWORK SIMULATION`
-
-**V2I Digital Twin Simulator**
-
-A cross-layer network simulator exploring vehicle-to-infrastructure communication through DSRC, C-V2X, and 5G-style environments.
-
-`Python` `Networks` `Simulation` `MAC Protocols`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03 // PREDICTIVE ANALYTICS`
-
-**Customer Retention Analysis**
-
-A machine-learning project that identifies potential churn patterns and supports retention decisions.
-
-`Python` `Pandas` `Scikit-learn` `Random Forest`
-
-</td>
-<td width="50%" valign="top">
-
-### `04 // HARDWARE BUILD`
-
-**Simon Says FPGA**
-
-A Verilog-based game implemented on an Artix-7 FPGA board using digital-system design and dataflow modelling.
-
-`Verilog` `FPGA` `Digital Design` `Hardware`
-
-</td>
-</tr>
-</table>
+**Process Mapping & Documentation** <br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
 
 ---
 
-## `> toolkit --list`
+### 📊 Featured Analytics Case Studies
+
+| Project | Domain | Description | Stack |
+|---|---|---|---|
+| **[E-Commerce A/B Testing & CRO](#)** | Product Analytics | Designed experiment logic and analyzed conversion metrics for a one-click checkout rollout. Built an executive Tableau dashboard and formulated a data-backed "Do Not Roll Out" recommendation based on strict statistical thresholds (p-value, CI). | Tableau, BRD/FRD, Figma |
+| **[BNPL Credit Risk Engine](#)** | Consumer Finance | Developed a dynamic risk-scoring engine achieving an 88% recall for pre-checkout defaults. Mapped strategic checkout decision flows to segment users and trigger dynamic down-payment UI prompts. | Python, SQL, Power BI |
+| **[Customer Retention Analytics](#)** | Operations | Analyzed churn drivers across 7,000+ telecom subscribers. Formulated a strategic retention proposal to recover at-risk MRR, supported by comprehensive system workflow documentation. | Python, Power BI, Excel |
+
+---
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,unity,arduino&amp;theme=dark" alt="Tools and technologies" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Business%20Analytics-F6C177?style=flat-square&amp;labelColor=191724" alt="Business Analytics" />
-<img src="https://img.shields.io/badge/Data%20Analysis-9CCFD8?style=flat-square&amp;labelColor=191724" alt="Data Analysis" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=000000&amp;labelColor=191724" alt="Power BI" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&amp;logo=tableau&amp;logoColor=ffffff&amp;labelColor=191724" alt="Tableau" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=ffffff&amp;labelColor=191724" alt="Excel" />
-<img src="https://img.shields.io/badge/Verilog-EB6F92?style=flat-square&amp;labelColor=191724" alt="Verilog" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=06SharXD&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=333333" alt="GitHub Stats" />
 </div>
-
----
-
-## `> system_metrics`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=06SharXD&amp;show_icons=true&amp;hide_border=true&amp;bg_color=191724&amp;title_color=F6C177&amp;text_color=E0DEF4&amp;icon_color=EB6F92&amp;ring_color=9CCFD8&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=06SharXD&amp;layout=compact&amp;hide_border=true&amp;bg_color=191724&amp;title_color=F6C177&amp;text_color=E0DEF4&amp;icon_color=EB6F92" alt="Top languages" />
-
-</div>
-
----
-
-## `> currently_loading`
-
-```text
-[██████████████████░░] Business Analysis portfolio
-[████████████████░░░░] Product analytics and dashboard projects
-[██████████████░░░░░░] Data science fundamentals
-[████████████░░░░░░░░] FPGA and digital-system projects
-```
-
----
-
-## `> establish_connection`
-
-<div align="center">
-
-<a href="mailto:YOUR_EMAIL_HERE">
-  <img src="https://img.shields.io/badge/EMAIL%20ME-F6C177?style=for-the-badge&amp;logo=gmail&amp;logoColor=191724&amp;labelColor=F6C177" alt="Email Sharath" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL_HERE">
-  <img src="https://img.shields.io/badge/LINKEDIN-9CCFD8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=191724&amp;labelColor=9CCFD8" alt="LinkedIn profile" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```text
-SYSTEM MESSAGE:
-Thanks for stopping by.
-Explore the projects, connect, and let's build something useful.
-```
-
-</div>
-```
-
-Replace only these before saving:
-
-```text
-YOUR_EMAIL_HERE
-YOUR_LINKEDIN_URL_HERE
-```
-
-Do not put this in the `theme` repository. Put it in a public repository named exactly `06SharXD`.

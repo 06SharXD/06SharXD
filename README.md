@@ -1,19 +1,18 @@
-Copy everything below into `README.md` of your public repository named `06SharXD`.
-
-```md
 <!-- ===================================================== -->
-<!--              SHARATH C. / GITHUB PROFILE              -->
+<!--               SHARATH C. / PROFILE README             -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=15&amp;duration=2800&amp;pause=900&amp;color=F6C177&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=SHARATH+C.+%E2%80%94+SYSTEMS%2C+DATA%2C+AND+PRODUCTS;ECE+STUDENT+%7C+BUSINESS+ANALYTICS+%7C+DATA+SCIENCE;WELCOME+TO+THE+SYSTEM..." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=F6C177&center=true&vCenter=true&width=900&lines=SHARATH+C.+%E2%80%94+BUILDING+AT+THE+EDGE+OF+HARDWARE+%26+DATA;ECE+STUDENT+%7C+BUSINESS+ANALYTICS+%7C+DATA+SCIENCE;WELCOME+TO+THE+SYSTEM..." alt="Animated introduction" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-9CCFD8?style=for-the-badge&amp;labelColor=191724" alt="Status online" />
-<img src="https://img.shields.io/badge/BASE-IIIT%20SRI%20CITY-F6C177?style=for-the-badge&amp;labelColor=191724" alt="IIIT Sri City" />
-<img src="https://img.shields.io/badge/FOCUS-DATA%20%2B%20ENGINEERING-EB6F92?style=for-the-badge&amp;labelColor=191724" alt="Focus" />
+<a href="https://github.com/06SharXD">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-9CCFD8?style=for-the-badge&labelColor=191724" alt="Status online" />
+</a>
+<img src="https://img.shields.io/badge/LOCATION-IIIT%20Sri%20City-F6C177?style=for-the-badge&labelColor=191724" alt="IIIT Sri City" />
+<img src="https://img.shields.io/badge/FOCUS-ANALYTICS%20%2B%20ENGINEERING-EB6F92?style=for-the-badge&labelColor=191724" alt="Focus" />
 
 </div>
 
@@ -22,11 +21,9 @@ Copy everything below into `README.md` of your public repository named `06SharXD
 ```text
 ┌─────────────────────────────────────────────────────────────────────┐
 │  USER PROFILE: SHARATH C.                                            │
-│  ROLE: ECE STUDENT / ANALYST / BUILDER                               │
-│  MISSION: TURNING COMPLEX SYSTEMS INTO USEFUL SOLUTIONS              │
+│  ROLE: Electronics & Communication Engineering Student               │
+│  MODE: Turning systems, data, and ideas into useful products         │
 └─────────────────────────────────────────────────────────────────────┘
-```
-
 ## `> whoami`
 
 I am an Electronics and Communication Engineering student at **IIIT Sri City**.
